@@ -9,5 +9,3 @@
   
   Sample excel files for candidate and voter details have been provided.
 
-## Other Contributors :
-* ADNAN ZAKI : https://github.com/zaki-1337
